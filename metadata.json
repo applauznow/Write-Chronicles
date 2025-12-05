@@ -1,0 +1,7 @@
+{
+  "name": "Write Chronicles",
+  "description": "Premier publishing services with an AI literary consultant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
